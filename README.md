@@ -1,11 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-U9pfdviY3jqjDGayEpI5RCXDfaiZtp1greciXbRlukX
+# เรียนรู้พื้นฐานการใช้งาน React และ JWT Token 
+ระบบล็อกอินด้วย JWT เพื่อยืนยันตัวตน ใช้ useContext ใน React จัดการสถานะการล็อกอิน  Backend ใช้ Node.js Express กับ MySQL และรองรับ LINE Notification
